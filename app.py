@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-
 def main():
     # Exchange rates
-    dollar_to_kwacha_rate = 24.07  # 1 USD = 24.07 Kwacha
-    kwacha_to_dollar_rate = 0.042  # 1 Kwacha = 0.042 USD
+    dollar_to_kwacha_rate = 23.14  # 1 USD = 24.07 Kwacha
+    kwacha_to_dollar_rate = 0.043  # 1 Kwacha = 0.042 USD
     
     print("Welcome to Currency Converter")
     print("1. Convert Kwacha to Dollar")
