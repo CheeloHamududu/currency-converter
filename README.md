@@ -7,8 +7,8 @@ A simple command-line application to convert between Zambian Kwacha (ZMW) and US
 - Convert from Kwacha to Dollar
 - Convert from Dollar to Kwacha
 - Current exchange rates:
-  - 1 USD = 24.07 Kwacha
-  - 1 Kwacha = 0.042 USD
+  - 1 USD = 23.14 Kwacha
+  - 1 Kwacha = 0.043 USD
 
 ## Requirements
 
